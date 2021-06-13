@@ -1,0 +1,10 @@
+"","id.exposure","id.outcome","outcome","exposure","method","nsnp","b","se","pval"
+"1","K85KuF","RtsVCl","AD_sumstats_Jansenetal_2019sept.txt.gz","E4_DM2_STRICT.gz","Inverse variance weighted",41,-0.000803405687102391,0.00541117157905281,0.881970541315322
+"2","K85KuF","RtsVCl","AD_sumstats_Jansenetal_2019sept.txt.gz","E4_DM2_STRICT.gz","MR Egger",41,-0.00747094744833007,0.0161605920257556,0.646439216649424
+"3","K85KuF","RtsVCl","AD_sumstats_Jansenetal_2019sept.txt.gz","E4_DM2_STRICT.gz","SIMEX",41,-0.00876374538741444,0.0188985834755527,NA
+"4","K85KuF","RtsVCl","AD_sumstats_Jansenetal_2019sept.txt.gz","E4_DM2_STRICT.gz","Inverse variance weighted",49,9.15867697150366e-05,0.00483849548394,0.98489792825244
+"5","K85KuF","RtsVCl","AD_sumstats_Jansenetal_2019sept.txt.gz","E4_DM2_STRICT.gz","MR Egger",49,-0.0127741224017841,0.0139570977830534,0.364736618376861
+"6","K85KuF","RtsVCl","AD_sumstats_Jansenetal_2019sept.txt.gz","E4_DM2_STRICT.gz","SIMEX",49,-0.0156758981009739,0.0164036681180223,NA
+"7","K85KuF","RtsVCl","AD_sumstats_Jansenetal_2019sept.txt.gz","E4_DM2_STRICT.gz","Inverse variance weighted",57,-0.000620989148792822,0.00429072147257835,0.884925334554581
+"8","K85KuF","RtsVCl","AD_sumstats_Jansenetal_2019sept.txt.gz","E4_DM2_STRICT.gz","MR Egger",57,-0.0172824969094031,0.0129007835826962,0.185869412358839
+"9","K85KuF","RtsVCl","AD_sumstats_Jansenetal_2019sept.txt.gz","E4_DM2_STRICT.gz","SIMEX",57,-0.0222967680365872,0.0149324631886465,NA

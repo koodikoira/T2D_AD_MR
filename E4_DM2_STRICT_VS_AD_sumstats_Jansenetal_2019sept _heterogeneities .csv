@@ -1,0 +1,7 @@
+"","id.exposure","id.outcome","outcome","exposure","method","Q","Q_df","Q_pval"
+"1","K85KuF","RtsVCl","AD_sumstats_Jansenetal_2019sept.txt.gz","E4_DM2_STRICT.gz","MR Egger",44.654677554727,39,0.246227768597107
+"2","K85KuF","RtsVCl","AD_sumstats_Jansenetal_2019sept.txt.gz","E4_DM2_STRICT.gz","Inverse variance weighted",44.8747648146198,40,0.27484515578404
+"3","K85KuF","RtsVCl","AD_sumstats_Jansenetal_2019sept.txt.gz","E4_DM2_STRICT.gz","MR Egger",49.9966047677127,47,0.355238588088283
+"4","K85KuF","RtsVCl","AD_sumstats_Jansenetal_2019sept.txt.gz","E4_DM2_STRICT.gz","Inverse variance weighted",51.0240720375741,48,0.355635699327377
+"5","K85KuF","RtsVCl","AD_sumstats_Jansenetal_2019sept.txt.gz","E4_DM2_STRICT.gz","MR Egger",52.3876204585247,55,0.575057059142532
+"6","K85KuF","RtsVCl","AD_sumstats_Jansenetal_2019sept.txt.gz","E4_DM2_STRICT.gz","Inverse variance weighted",54.2630830925801,56,0.540875799250424

@@ -1,0 +1,4 @@
+"","id.exposure","id.outcome","outcome","exposure","egger_intercept","se","pval"
+"1","K85KuF","RtsVCl","AD_sumstats_Jansenetal_2019sept.txt.gz","E4_DM2_STRICT.gz",0.000668725451978375,0.00152528702736307,0.66349661461479
+"2","K85KuF","RtsVCl","AD_sumstats_Jansenetal_2019sept.txt.gz","E4_DM2_STRICT.gz",0.00130633498158631,0.00132920475430157,0.33074093559016
+"3","K85KuF","RtsVCl","AD_sumstats_Jansenetal_2019sept.txt.gz","E4_DM2_STRICT.gz",0.00163536295479128,0.00119415292759988,0.176416756835755

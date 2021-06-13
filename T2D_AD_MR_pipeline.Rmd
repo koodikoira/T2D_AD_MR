@@ -413,7 +413,7 @@ mrAnalysis <- function(H_data, list_of_mr_methods){
 
 ```
 
-#### r^2 = 0.1
+#### Analyze set r^2 = 0.1
 
 <p>In simex measurement.error parameter determines the given standard deviations of measurement errors. In case of homoskedastic measurement error it is a matrix with dimension 1xlength(SIMEXvariable). In case of heteroskedastic error for at least one SIMEXvariable it is a matrix of dimension nx. Here we assume that standard deviation is the same as MR-Egger causal estimate's standard deviation.</p>
 
@@ -484,7 +484,7 @@ mr_funnel_plot(listOfResults1$res_singles)
 mr_leaveoneout_plot(listOfResults1$leave_one_out)
 ```
 
-#### r^2 = 0.2
+#### Analyze set r^2 = 0.2
 
 ```{r, echo=TRUE}
 listOfResults2 <- mrAnalysis(filtered_H_data2, list_of_mr_methods)
@@ -551,7 +551,7 @@ mr_leaveoneout_plot(listOfResults2$leave_one_out)
 
 ```
 
-#### r^2 = 0.4
+#### Analyze set r^2 = 0.4
 
 ```{r, echo=TRUE}
 listOfResults3 <- mrAnalysis(filtered_H_data3, list_of_mr_methods)
